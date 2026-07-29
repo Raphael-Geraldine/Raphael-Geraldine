@@ -45,6 +45,16 @@ Gosto de entender sistemas em profundidade e construir soluções que vão muito
 
 ## Outros Projetos Relevantes
 
+### 🐧 Intel Quartus Prime no Apple Silicon
+Engenharia reversa e virtualização avançada para rodar com alta performance uma ferramenta legada x86_64, com uma teia de bibliotecas legadas em 32-bits, diretamente em um **MacBook Air M4**.
+
+<a href="https://github.com/Raphael-Geraldine/Intel-Quartus-Prime-macOS-Apple-Silicon" target="_blank">
+  <img src="https://img.shields.io/badge/Acessar_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Repositório" />
+</a>
+
+- **Virtualização & Rosetta 2:** Implementação de uma VM Debian ARM64 via UTM com integração do **Rosetta 2** diretamente no kernel do Linux (`binfmt_misc` e VirtioFS), viabilizando a tradução e execução de binários x86_64 em alta performance no Apple Silicon.
+- **Resolução de Dependências Legadas (32-bit/i386):** Superação de incompatibilidades profundas em ferramentas como o ModelSim por meio de compilação cruzada, reconstrução de fontes legadas (como o FreeType 2.4.12) e desenvolvimento de um *wrapper* em C para interceptar e estabilizar chamadas da `libsqlite3`.
+
 ### 📡 Arquitetura de Comunicação Óptica via Laser (FSO)
 Desenvolvimento da camada de software, ponta a ponta, para um sistema de comunicação sem fio bidirecional por meio de feixes de _laser_ em ESP32. Alcance validado de **37,4 metros sem perda de pacotes**.
 
@@ -56,16 +66,6 @@ Desenvolvimento da camada de software, ponta a ponta, para um sistema de comunic
 - **Gerenciamento de Memória (Chunklist):** Para evitar o esgotamento de Heap ao transmitir imagens em um microcontrolador, desenvolvi uma estrutura de dados customizada em C chamada *Chunklist*. Ela aloca e encadeia pequenos blocos dispersos na RAM sob demanda, contornando a fragmentação.
 - **Determinismo com FreeRTOS:** Isolei o início transmissão óptica utilizando *FreeRTOS Tasks* com prioridade máxima fixadas em um núcleo (*core*) dedicado, garantindo que o tráfego de rede (Wi-Fi AP e Servidor HTTP) não interferisse na temporização crítica de alinhamento temporal do laser.
 - **Pilha Full-Stack:** O firmware hospeda um painel web completo, onde o usuário pode enviar textos ou arquivos de imagem (JPG/PNG).
-
-### 🐧 Intel Quartus Prime no Apple Silicon
-Engenharia reversa e virtualização avançada para rodar com alta performance uma ferramenta legada x86_64, com uma teia de bibliotecas legadas em 32-bits, diretamente em um **MacBook Air M4**.
-
-<a href="https://github.com/Raphael-Geraldine/Intel-Quartus-Prime-macOS-Apple-Silicon" target="_blank">
-  <img src="https://img.shields.io/badge/Acessar_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Repositório" />
-</a>
-
-- **Virtualização & Rosetta 2:** Implementação de uma VM Debian ARM64 via UTM com integração do **Rosetta 2** diretamente no kernel do Linux (`binfmt_misc` e VirtioFS), viabilizando a tradução e execução de binários x86_64 em alta performance no Apple Silicon.
-- **Resolução de Dependências Legadas (32-bit/i386):** Superação de incompatibilidades profundas em ferramentas como o ModelSim por meio de compilação cruzada, reconstrução de fontes legadas (como o FreeType 2.4.12) e desenvolvimento de um *wrapper* em C para interceptar e estabilizar chamadas da `libsqlite3`.
 
 ---
 
