@@ -36,10 +36,16 @@ Gosto de entender sistemas em profundidade e construir soluções que vão muito
 >
 > Esse esforço reflete minha capacidade de unir engenharia de baixo nível (manipulação de binários e bibliotecas dinâmicas) com um cuidado minucioso com a interface e a jornada do usuário na plataforma Apple.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/19fd3fa7-1bf5-41b8-91b1-ef3d5466fa11" width="48%" alt="Fase 2" />
-  <img src="https://github.com/user-attachments/assets/c9d7a13e-1f61-4d91-984b-b8b06e35ec4c" width="48%" alt="Menu Principal" />
-</p>
+<table border="0" style="width: 100%;">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/19fd3fa7-1bf5-41b8-91b1-ef3d5466fa11" width="100%" alt="Fase 2" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/c9d7a13e-1f61-4d91-984b-b8b06e35ec4c" width="100%" alt="Menu Principal" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -73,14 +79,10 @@ Desenvolvimento da camada de software, ponta a ponta, para um sistema de comunic
 
 <div align="left">
   <!-- Back-end & Linguagens -->
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <br>
   <!-- OS & Ferramentas -->
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS" /><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 ---
