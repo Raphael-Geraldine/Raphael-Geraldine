@@ -21,13 +21,7 @@ Gosto de entender sistemas em profundidade e construir soluções que vão muito
 ### O Equilíbrio da Força
 *Um jogo de plataforma 2D em C++ utilizando programação orientada a objetos avançada, SFML e concorrência (POSIX Threads).*
 
-<a href="https://github.com/Raphael-Geraldine/O-Equilibrio-da-Forca" target="_blank">
-  <img src="https://img.shields.io/badge/Acessar_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Repositório" />
-</a>
-<a href="https://github.com/Raphael-Geraldine/O-Equilibrio-da-Forca/releases" target="_blank">
-  <img src="https://img.shields.io/badge/Baixar_App_macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Baixar DMG" />
-</a>
-<br><br>
+<a href="https://github.com/Raphael-Geraldine/O-Equilibrio-da-Forca" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Acessar_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Repositório" /></a> <a href="https://github.com/Raphael-Geraldine/O-Equilibrio-da-Forca/releases" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Baixar_App_macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Baixar DMG" /></a>
 
 > **Por que este projeto está em destaque?**  
 > Originalmente um trabalho acadêmico de POO em C++, decidi levar o projeto muito além do escopo exigido, focando tanto na excelência técnica quanto na experiência do usuário final. Assumi o desafio de desenvolver a versão nativa do jogo para a arquitetura **ARM64 (Apple Silicon)**, garantindo máximo desempenho e fluidez.
