@@ -58,6 +58,8 @@ Engenharia reversa e virtualização avançada para rodar com alta performance u
   <img src="https://img.shields.io/badge/Acessar_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Repositório" />
 </a>
 
+<br>
+
 - **Virtualização & Rosetta 2:** Implementação de uma VM Debian ARM64 via UTM com integração do **Rosetta 2** diretamente no kernel do Linux (`binfmt_misc` e VirtioFS), viabilizando a tradução e execução de binários x86_64 em alta performance no Apple Silicon.
 - **Resolução de Dependências Legadas (32-bit/i386):** Superação de incompatibilidades profundas em ferramentas como o ModelSim por meio de compilação cruzada, reconstrução de fontes legadas (como o FreeType 2.4.12) e desenvolvimento de um *wrapper* em C para interceptar e estabilizar chamadas da `libsqlite3`.
 
@@ -67,6 +69,8 @@ Desenvolvimento da camada de software, ponta a ponta, para um sistema de comunic
 <a href="https://github.com/Raphael-Geraldine/Arquitetura-de-Comunicacao-Optica-Laser" target="_blank">
   <img src="https://img.shields.io/badge/Acessar_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Repositório" />
 </a>
+
+<br>
 
 - **Baixo Nível & Registradores:** Abandonei as abstrações do Arduino (`digitalWrite`) para implementar o controle de I/O escrevendo diretamente nos **registradores** do ESP32, eliminando o *jitter* na modulação do feixe de luz.
 - **Gerenciamento de Memória (Chunklist):** Para evitar o esgotamento de Heap ao transmitir imagens em um microcontrolador, desenvolvi uma estrutura de dados customizada em C chamada *Chunklist*. Ela aloca e encadeia pequenos blocos dispersos na RAM sob demanda, contornando a fragmentação.
