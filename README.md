@@ -23,6 +23,7 @@ Gosto de entender sistemas em profundidade e construir soluções que vão muito
 
 <div style="display: flex; gap: 8px; flex-wrap: wrap;">
 <a href="https://github.com/Raphael-Geraldine/O-Equilibrio-da-Forca" target="_blank"><img src="https://img.shields.io/badge/Acessar_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Repositório" /></a>
+<br>
 <a href="https://github.com/Raphael-Geraldine/O-Equilibrio-da-Forca/releases" target="_blank"><img src="https://img.shields.io/badge/Baixar_App_macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Baixar DMG" /></a>
 </div>
 
