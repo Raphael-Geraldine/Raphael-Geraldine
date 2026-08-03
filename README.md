@@ -10,7 +10,7 @@ Gosto de entender sistemas em profundidade e construir soluções que vão muito
 ### 👨‍💻 Sobre mim
 - 🎓 Estudante de **Engenharia de Computação** na Universidade Tecnológica Federal do Paraná (UTFPR).
 - ⚙️ Experiência prática com **Python, C e C++** (incluindo manipulação de registradores, pthreads e gerenciamento de memória em embarcados).
-- 🇺🇸 **Inglês Avançado** (Leitura técnica, documentação e conversação).
+- 🌐 Conhecimento básico de Frontend (HTML, CSS e JavaScript), aplicado em projetos e páginas web.
 - 🥋 Pratico **Jiu-Jitsu há 14 anos** — o que moldou minha disciplina, resiliência e capacidade de atuar sob pressão.
 - 🎸 Nas horas vagas, a música é meu hobby: toco guitarra, violão, piano, synth e harmônica.
 
@@ -81,9 +81,7 @@ Desenvolvimento da camada de software, ponta a ponta, para um sistema de comunic
 
 ## Tecnologias e Ferramentas
 
-![Tecnologias](https://simpleskill.icons.workers.dev/svg?i=cplusplus,c,python)
-
-![Ferramentas](https://simpleskill.icons.workers.dev/svg?i=apple,linux,git)
+![Logo](https://github.com/user-attachments/assets/47ee8613-9d77-4a63-ab61-1c784807672a)
 
 ---
 
