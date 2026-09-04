@@ -61,7 +61,7 @@ Engenharia reversa e virtualização avançada para rodar com alta performance u
 <br>
 
 - **Virtualização & Rosetta 2:** Implementação de uma VM Debian ARM64 via UTM com integração do **Rosetta 2** diretamente no kernel do Linux (`binfmt_misc` e VirtioFS), viabilizando a tradução e execução de binários x86_64 em alta performance no Apple Silicon.
-- **Resolução de Dependências Legadas (32-bit/i386):** Superação de incompatibilidades profundas em ferramentas como o ModelSim por meio de compilação cruzada, reconstrução de fontes legadas (como o FreeType 2.4.12) e desenvolvimento de um *wrapper* em C para interceptar e estabilizar chamadas da `libsqlite3`.
+- **Resolução de Dependências Legadas:** Superação de incompatibilidades profundas em ferramentas como o ModelSim por meio de compilação cruzada, reconstrução de fontes legadas (como o FreeType 2.4.12) e desenvolvimento de um *wrapper* em C para interceptar e estabilizar chamadas da `libsqlite3`.
 
 ### 📡 Arquitetura de Comunicação Óptica via Laser (FSO)
 Desenvolvimento da camada de software, ponta a ponta, para um sistema de comunicação sem fio bidirecional por meio de feixes de _laser_ em ESP32. Alcance validado de **37,4 metros sem perda de pacotes**.
